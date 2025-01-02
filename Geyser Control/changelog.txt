@@ -1,0 +1,13 @@
+1.0.2
+Decoupled Uncap Pressure Checkbox from any Analysis requirement to prevent unintended behavior.
+
+1.0.1
+Removed extraneous selection sounds.
+Added Uncap Pressure Checkbox.
+Added Randomize Values Button.
+Improved Button Cooldown and Confirmation functionality.
+Added option to disable Cooldowns and Confirmations.
+
+
+1.0.0
+Initial Release
