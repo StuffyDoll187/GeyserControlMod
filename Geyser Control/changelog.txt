@@ -1,3 +1,10 @@
+1.0.4
+Fixed crash related to Uncap Pressure and Geotuners.
+Modified Korean Translation with user submission. (Nubula01)
+
+1.0.3
+Updated for March 2025 Quality of Life Update.
+
 1.0.2
 Decoupled Uncap Pressure Checkbox from any Analysis requirement to prevent unintended behavior.
 
